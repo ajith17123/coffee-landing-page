@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import '../assets/style/Home.css';
 import chikmagalurImg from '../assets/images/chikmagalur.jpg';
 import arakuImg from '../assets/images/araku.jpg';
